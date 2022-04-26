@@ -4,7 +4,7 @@
 
 ## About 
 
-Basic and easy 2D ray casting implementation. It uses the JavaFX library for the visual presentation, and it uses some MVC rules.
+Basic and easy 2D ray casting algorithm. It uses the JavaFX library for the visual presentation, and it uses some MVC rules.
 
 ## Requirements 
 
