@@ -49,7 +49,7 @@ public class MainController {
     }
 
     public void createBounds() {
-        this.bounds = Bound.createArrayOfBounds(this.view.getWidth(), this.view.getHeight(), 50);
+        this.bounds = Bound.createArrayOfBounds(this.view.getWidth(), this.view.getHeight(), 10);
     }
 
     public void createParticle() {
